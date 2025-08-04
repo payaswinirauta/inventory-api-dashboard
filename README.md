@@ -8,7 +8,7 @@ A backend API built using FastAPI and SQLite to manage inventory data, detect lo
 
 ---
 
-## 🔧 Features
+##  Features
 
 - Add new inventory items via POST API
 - View all inventory records
@@ -17,7 +17,7 @@ A backend API built using FastAPI and SQLite to manage inventory data, detect lo
 - Swagger UI for interactive API testing at `/docs`
 
 ---
-
+```
 ## Project Structure
 
 inventory_api_project/
@@ -32,7 +32,7 @@ inventory_api_project/
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
 
-
+```
 ---
 
 ## Sample Request (POST `/inventory/`)
@@ -47,7 +47,7 @@ inventory_api_project/
 
 ---
 ```
-⚙️ How to Run
+### How to Run
 
 # -Create virtual environment
 python -m venv .venv
