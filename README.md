@@ -76,8 +76,9 @@ http://127.0.0.1:8000/docs
 ---
 
 👩‍💻 Author
-Payaswini Rauta
-GitHub: [@payaswinirauta](https://github.com/payaswinirauta)
+-Payaswini Rauta
+
+-GitHub: [@payaswinirauta](https://github.com/payaswinirauta)
 
 ---
 
@@ -86,11 +87,3 @@ MIT License
 
 This version is professional, minimal, and **focused only on your project**. Let me know when you're ready for resume line upgrades or deployment setup.
 
-
-
-
-
-
-
-
-Ask ChatGPT
