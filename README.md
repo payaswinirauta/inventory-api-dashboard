@@ -45,7 +45,7 @@ inventory_api_project/
   "restock_date": "2025-08-08"
 }
 
----
+
 ```
 ### How to Run
 
