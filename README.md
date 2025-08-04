@@ -49,14 +49,14 @@ inventory_api_project/
 ```
 ### How to Run
 
-# -Create virtual environment
+-Create virtual environment
 python -m venv .venv
 .venv\Scripts\activate     # Windows
 
-# -Install dependencies
+-Install dependencies
 pip install -r requirements.txt
 
-# -Start the FastAPI server
+-Start the FastAPI server
 uvicorn app.main:app --reload
 Open in browser:
 http://127.0.0.1:8000/docs
@@ -64,6 +64,7 @@ http://127.0.0.1:8000/docs
 ---
 
 📈 Use Cases
+
 -Backend for inventory management
 
 -Supply chain and logistics systems
@@ -72,9 +73,13 @@ http://127.0.0.1:8000/docs
 
 -Data engineering automation projects
 
+---
+
 👩‍💻 Author
 Payaswini Rauta
 GitHub: [@payaswinirauta](https://github.com/payaswinirauta)
+
+---
 
 📄 License
 MIT License
